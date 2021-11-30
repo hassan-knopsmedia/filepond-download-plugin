@@ -13,7 +13,7 @@ The Get File plugin will add a tiny 'download' icon in front of the filename to 
 Install using npm:
 
 ```bash
-npm install filepond-plugin-get-file
+npm install https://github.com/hassan-knopsmedia/filepond-download-plugin.git
 ```
 
 Then import in your project:
